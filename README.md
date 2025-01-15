@@ -1,6 +1,8 @@
 # VisionFlow
 
 VisionFlow is a PDF-to-Mindmap converter, a Streamlit-based application designed to enhance how you understand and visualize document content. By utilizing Google Generative AI and Markmap, VisionFlow transforms PDF content into dynamic, interactive mindmaps for clear and efficient information processing.
+
+<img src="assets\VisionFlow.png">
 ## Setup
 
 1. **Clone the repository**:
