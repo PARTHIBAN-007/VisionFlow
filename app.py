@@ -116,7 +116,7 @@ def create_mindmap(markdown_content):
 def main():
     """Main function to handle file upload, mindmap generation, and visualization."""
     st.set_page_config(layout="wide")
-    st.title("📚 AI-Powered PDF to Interactive Mindmap")
+    st.title("📚 Vision Flow")
     st.markdown("Convert PDFs to interactive, editable mindmaps using AI.")
 
     if not configure_genai():
